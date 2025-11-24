@@ -1,3 +1,11 @@
+title: RL Energy Grid Optimizer
+emoji: "⚡"
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+app_file: src/dashboard.py
+pinned: false
+
 # ⚡ Autonomous Energy Grid Optimization (RL-PPO)
 
 ### 🚀 Business Case
