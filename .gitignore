@@ -1,0 +1,20 @@
+# Python garbage
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environments
+.env
+venv/
+env/
+
+# OS garbage
+.DS_Store
+Thumbs.db
+
+# Huge Data (Keep processed, ignore raw to save space)
+data/raw/
+
+# IDE settings
+.vscode/
